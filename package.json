@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@reduxjs/toolkit": "^2.11.2",
+=======
+>>>>>>> 0b9085089accd17ff1264df8bb39f30e302123df
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -13,7 +16,10 @@
     "@types/react-dom": "^18.0.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-redux": "^9.2.0",
+=======
+>>>>>>> 0b9085089accd17ff1264df8bb39f30e302123df
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "typescript": "^4.9.5",

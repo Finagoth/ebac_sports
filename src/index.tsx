@@ -1,17 +1,25 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+<<<<<<< HEAD
 import { Provider } from 'react-redux'
 
 import App from './App'
 import { store } from './store'
+=======
+import App from './App'
+>>>>>>> 0b9085089accd17ff1264df8bb39f30e302123df
 import reportWebVitals from './reportWebVitals'
 
 const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
   <React.StrictMode>
+<<<<<<< HEAD
     <Provider store={store}>
       <App />
     </Provider>
+=======
+    <App />
+>>>>>>> 0b9085089accd17ff1264df8bb39f30e302123df
   </React.StrictMode>
 )
 
